@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\Projetos\\DotNetCore3.0_Selenium-Headless-master\\ConversorDistancias.Testes\\TestPage.Testes.csproj": {}
+    "C:\\Users\\admin\\Documents\\GitHub\\UltimateSmartHome\\TestPages.Testes\\TestPage.Testes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\Projetos\\DotNetCore3.0_Selenium-Headless-master\\ConversorDistancias.Testes\\TestPage.Testes.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\UltimateSmartHome\\TestPages.Testes\\TestPage.Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Projetos\\DotNetCore3.0_Selenium-Headless-master\\ConversorDistancias.Testes\\TestPage.Testes.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\UltimateSmartHome\\TestPages.Testes\\TestPage.Testes.csproj",
         "projectName": "TestPage.Testes",
-        "projectPath": "C:\\Users\\admin\\Documents\\Projetos\\DotNetCore3.0_Selenium-Headless-master\\ConversorDistancias.Testes\\TestPage.Testes.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\UltimateSmartHome\\TestPages.Testes\\TestPage.Testes.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Projetos\\DotNetCore3.0_Selenium-Headless-master\\ConversorDistancias.Testes\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\UltimateSmartHome\\TestPages.Testes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

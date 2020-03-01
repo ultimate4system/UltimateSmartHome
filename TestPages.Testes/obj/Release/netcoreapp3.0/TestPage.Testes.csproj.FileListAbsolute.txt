@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\GitHub\UltimateSmartHome\TestPages.Testes\bin\Release\netcoreapp3.0\appsettings.json
+C:\Users\admin\Documents\GitHub\UltimateSmartHome\TestPages.Testes\bin\Release\netcoreapp3.0\TestPage.Testes.deps.json
+C:\Users\admin\Documents\GitHub\UltimateSmartHome\TestPages.Testes\bin\Release\netcoreapp3.0\TestPage.Testes.dll
+C:\Users\admin\Documents\GitHub\UltimateSmartHome\TestPages.Testes\bin\Release\netcoreapp3.0\TestPage.Testes.pdb
+C:\Users\admin\Documents\GitHub\UltimateSmartHome\TestPages.Testes\obj\Release\netcoreapp3.0\TestPage.Testes.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\UltimateSmartHome\TestPages.Testes\obj\Release\netcoreapp3.0\TestPage.Testes.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\UltimateSmartHome\TestPages.Testes\obj\Release\netcoreapp3.0\TestPage.Testes.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\UltimateSmartHome\TestPages.Testes\obj\Release\netcoreapp3.0\TestPage.Testes.dll
+C:\Users\admin\Documents\GitHub\UltimateSmartHome\TestPages.Testes\obj\Release\netcoreapp3.0\TestPage.Testes.pdb
