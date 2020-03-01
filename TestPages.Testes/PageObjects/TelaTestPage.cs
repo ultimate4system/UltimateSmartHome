@@ -100,7 +100,7 @@ namespace TestPage.Testes.PageObjects
                 title.ToString());
         }
 
-        public void addDateLimit(string dataLimit)
+        public void addDateLimit()
         {
             _driver.FindElement(By.XPath("/html/body/div[2]/div[1]/div[3]/div[1]/input")).Click();
             _driver.FindElement(By.XPath("//*[@id='P715415428_root'/div/div/div/div/div[2]/div[2]/button[1]")).Click();

@@ -43,10 +43,10 @@ namespace TestPage.Testes
             tela.AddTitle(title);
             tela.tellAbout(about);
             tela.done();
-            //tela.addDateLimit(dateLimit); Componente datepick está com algum erro, o componente pisca e não abre causando uma execeção no momento de executar o codigo
+            //tela.addDateLimit(); //Componente datepick está com algum erro, o componente pisca e não abre causando uma execeção no momento de executar o codigo
             tela.SaveTask();
-       
-            tela.Fechar();
+
+            //tela.Fechar();  //Desconmentar esse trecho, caso queira fechar o navegador no final da execução.
         }
     }
 }
